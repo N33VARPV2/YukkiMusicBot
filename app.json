@@ -51,7 +51,7 @@
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
         "value": "",
-        "required": true
+        "required": false
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
